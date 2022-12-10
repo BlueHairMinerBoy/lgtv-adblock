@@ -5,5 +5,10 @@ nudge.lgtvcommon.com
 rdl.lgtvcommon.com
 recommend.lgtvcommon.com
 lgsmartad.com
-
 service.lgtvcommon.com
+eic.recommend.lgtvcommon.com
+eic.service.lgtvcommon.com/
+eic.nudge.lgtvcommon.com
+eic.netflixvoice.lgtvcommon.com
+eic.homeprv.lgtvcommon.com
+eic.cdpsvc.lgtvcommon.com
